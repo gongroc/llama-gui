@@ -1,0 +1,12 @@
+:root {
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  border: 1px solid #4C4D4F;
+  padding: 0;
+  margin: 0;
+  height: 100vh;
+  width: 100%;
+  border-radius: 10px;
+  background: #1D1E1F;
+  box-sizing: border-box;
+  overscroll-behavior: none;
+}
